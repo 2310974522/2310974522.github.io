@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/2310974522/2310974522.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/2310974522/2310974522.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# 饼王的故事
+## 我们是谁？
+  世界一流的画饼大师，我们正集结着一群善于画饼大师开展这着人难以置信的画饼研究并将其推向另一个高度——*画饼学*
+  
+## 我们的团队
+* ~C.J.B~：画饼界的鼻祖，素有“画饼教父”之称。他正从自己过去的研究中不断探索新的突破并试图为画饼打开一个新的领域
+* ~A.B.C~：画饼新秀。因三年前在J市画下惊天动地的大饼而一鸣惊人
+## 我们的故事
+我们十分注重StoryTelling，励志突破每一个细节
+## 我们的理念
